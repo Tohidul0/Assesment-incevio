@@ -48,3 +48,10 @@
     display: flex;
     align-items: center;
 }
+
+.bgCol{
+    background-color: #194E8A;
+}
+.dealcol{
+   background-color: #e9e7e7;
+}
