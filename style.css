@@ -1,0 +1,44 @@
+.container{
+    padding-right: 192px;
+    padding-left: 192px;
+}
+
+
+
+.topVar{
+   margin-right: 16px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.col{
+    color: #194E8A;
+}
+.bar{
+    background-color: #194E8A;
+    height: 88px;
+    display: flex;
+    align-items: center;
+    
+}
+.mainbar{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.search{
+    background-color: white;
+    width: 752px;
+    height: 56px;
+    border-radius: 100px;
+    padding-left: 16px;
+    display: flex;
+    align-items: center;
+   
+   
+   
+}
+.rightbar{
+    display: flex;
+    align-items: center;
+}
